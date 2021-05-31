@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622498886 source:c:\users\krish\codeblocksprojects\personal projects\tic-tac-toe_v1.1\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<random>
+	<ctime>
+	<string>
+	<vector>
+

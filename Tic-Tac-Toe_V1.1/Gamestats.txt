@@ -1,0 +1,27 @@
+---------------------------
+~~GAMESTATS~~
+---------------------------
+NAMES:
+1. Bob
+2. Bill
+---------------------------
+PLAYER ORDER(#):
+1. Bob
+2. Bill
+---------------------------
+PLAYER CHARACTER:
+1. O
+2. X
+---------------------------
+OUTCOMES:
+Bob won
+Bob won
+Bill won
+Bob won
+Bill won
+---------------------------
+TOTALS:
+Ties: 0
+Player 1 Dubs: 3
+Player 2 Dubs: 2
+---------------------------
